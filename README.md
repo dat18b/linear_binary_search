@@ -1,5 +1,10 @@
 # Linear & Binary search Algorithms
 
+![](/img/linear.png)
+
+
+
+
 ## Binary Search
 1. To be able to perform a binary search the array or list we are working on must be sorted.  
 2. Then you look at the middle element in the list.  
