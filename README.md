@@ -1,6 +1,6 @@
 # Linear & Binary search Algorithms
 
-![](/img/linear.png)
+![](/img/linear.001.png)
 
 
 
